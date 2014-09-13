@@ -1,5 +1,4 @@
 {
-  "app": false,
   "node": true,
   "browser": true,
   "esnext": true,
@@ -19,6 +18,9 @@
   "strict": true,
   "trailing": true,
   "smarttabs": true,
+
+  "app": false,
+
   "globals": {
     "angular": false
   }
